@@ -57,6 +57,9 @@ A Pivot Table was then used to group the data by this new category, summing the 
 - Order Patterns: Multi pizza orders are relatively low with only 900 orders out of 48,600
 - Pricing Insights: Prices range from 10 to 83 Naira with variations across sizes and categories.
 - Time Based Insights: January sees the highest revenue while December experiences a dip in sales
+
+  ![Pizza Sales_Dashboard](https://github.com/user-attachments/assets/32073afc-bb2b-4211-b89d-67d1ee252c97)
+
 ### Recommendations
 - Offer more non-vegetarian pizza options and promotions on Fridays and Saturdays to capitalize on peak demand. Consider rebranding or adjusting prices of underperforming pizzas to make them more competitive or appealing.
 - Ensure efficient production processes for large-sized pizzas to meet high demand
