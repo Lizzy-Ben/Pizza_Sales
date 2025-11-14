@@ -6,6 +6,7 @@
 - [Tools_Used](#tools-used)
 - [Exploratory_Data_Analysis](#exploratory-data-analysis)
 - [Findings](#findings)
+- [Dashboard](#dashboard)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
@@ -68,6 +69,7 @@ A Pivot Table was then used to group the data by this new category, summing the 
 - Pricing Insights: Prices range from 10 to 83 Naira with variations across sizes and categories.
 - Time Based Insights: January sees the highest revenue while December experiences a dip in sales
 
+### Dashboard
   ![Pizza Sales_Dashboard](https://github.com/user-attachments/assets/32073afc-bb2b-4211-b89d-67d1ee252c97)
 
 ### Recommendations
